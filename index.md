@@ -30,11 +30,11 @@ Use the filters or browse the categories below to find something that matches yo
 
 ### Categories
 
-- [Outdoor Activities](#outdoor-activities)  
-- [Indoor Activities](#indoor-activities)  
-- [Seasonal Events](#seasonal-events)  
-- [Quick Trips](#quick-trips)  
-- [Budget-Friendly ($20 or less)](#budget-friendly-20-or-less)
+- [Outdoor Activities](#outdoor-activities-)  
+- [Indoor Activities](#indoor-activities-)  
+- [Seasonal Events](#seasonal-events-)  
+- [Quick Trips](#quick-trips-)  
+- [Budget-Friendly ($20 or less)](#budget-friendly-20-or-less-)
 
 Each section lists curated recommendations with links, hours, and accessibility info (to be added in future iterations).
 
