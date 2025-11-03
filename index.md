@@ -1,4 +1,4 @@
-# Activities in Ithaca Initiative 🌿
+# Activities in Ithaca Initiative
 
 Welcome to the **Activities in Ithaca Guide**, created by Cornell students to help first-year students discover fun, affordable, and accessible things to do both on campus and around the Ithaca area.
 
@@ -6,7 +6,7 @@ Our goal is to make it easier for new students to explore, connect, and make the
 
 ---
 
-## 🎯 About This Project
+## About This Project
 
 Every year, thousands of new Cornell students arrive in Ithaca, often without knowing what’s happening beyond campus.  
 While Cornell’s newsletters list some on-campus events, many students miss out on the broader range of local experiences — from hiking trails and cafés to seasonal festivals and markets.
@@ -15,7 +15,7 @@ The **Activities in Ithaca Initiative** consolidates scattered information from 
 
 ---
 
-## 👥 Who This Is For
+## Who This Is For
 
 **First-year Cornell students** — or anyone new to the Ithaca community — who want:
 - Reliable, up-to-date information on activities and events  
@@ -24,7 +24,7 @@ The **Activities in Ithaca Initiative** consolidates scattered information from 
 
 ---
 
-## 🔍 How to Use This Guide
+## How to Use This Guide
 
 Use the filters or browse the categories below to find something that matches your mood, interests, or schedule.
 
@@ -40,7 +40,7 @@ Each section lists curated recommendations with links, hours, and accessibility 
 
 ---
 
-## 🌳 Outdoor Activities
+## Outdoor Activities
 
 Examples:
 - Walk along **Cascadilla Gorge Trail**  
@@ -52,7 +52,7 @@ Examples:
 
 ---
 
-## ☕ Indoor Activities
+## Indoor Activities
 
 Examples:
 - Study or relax at **Ithaca Coffee Company**  
@@ -64,7 +64,7 @@ Examples:
 
 ---
 
-## 🍎 Seasonal Events
+## Seasonal Events
 
 Examples:
 - **Apple Harvest Festival (Fall)**  
@@ -76,7 +76,7 @@ Examples:
 
 ---
 
-## 🚶 Quick Trips
+## Quick Trips
 
 Examples:
 - Walk to **Downtown Commons** for food and shops  
@@ -87,7 +87,7 @@ Examples:
 
 ---
 
-## 💸 Budget-Friendly ($20 or less)
+## Budget-Friendly ($20 or less)
 
 Examples:
 - Try a **$5 matinee at Cinemapolis**  
@@ -99,7 +99,7 @@ Examples:
 
 ---
 
-## 📝 Suggest an Activity
+## Suggest an Activity
 
 Have an idea we should include?  
 We’d love your input!
@@ -109,7 +109,7 @@ to suggest a new event or improvement.
 
 ---
 
-## 👩‍💻 Meet the Team
+## Meet the Team
 
 **Team 3 — ENGRC 3500, Fall 2025**
 
@@ -120,7 +120,7 @@ to suggest a new event or improvement.
 
 ---
 
-## 📅 Version 1.0 (Draft for Usability Testing)
+## Version 1.0 (Draft for Usability Testing)
 
 This version is designed for feedback and improvement.  
 Please record your usability testing session as you try to:
